@@ -1,5 +1,6 @@
 # Supermarket Billing System
 
+
 Java application for supermarket checkout simulation. Browse products, manage carts, apply discounts, and generate receipts.
 
 ## Features
