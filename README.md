@@ -25,7 +25,6 @@ Java application for supermarket checkout simulation. Browse products, manage ca
 2. Compile and run `SupermarketBillingSystem.java` to start.
 
 ## Contributing
-
 Contributions welcome! Fork the repository, make changes, and submit a pull request.
 
 ## License
